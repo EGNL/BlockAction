@@ -2,4 +2,4 @@
 
 test
 
-<embed src="Action.swf" width="600" height="400"></embed>
+<embed src="Action.swf" width="1200" height="800"></embed>
